@@ -16,10 +16,6 @@ function App() {
     <div className="root">
       <Header />
       <Switch>  
-      <Route path="/" exact>
-        <Promo />
-        <AboutAs />
-      </Route> 
 
       <Route path="/einblicke" >
         <Einblicke />
@@ -33,6 +29,10 @@ function App() {
         <Anschrift />
       </Route> 
       
+      <Route path="*" >
+        <Promo />
+        <AboutAs />
+      </Route>
 
       </Switch>  
       <Footer />

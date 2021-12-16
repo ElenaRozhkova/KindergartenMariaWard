@@ -115,7 +115,11 @@
 }
 
 @media screen and (max-width: 700px) {
-
+    .aboutme {
+        padding-top: 30px;
+        padding-left: 14px;
+        padding-right: 14px;
+    }
     .aboutme__header {
         font-size: 17px;
         line-height: 22px;
@@ -124,6 +128,7 @@
     .aboutme__content {
         padding-top: 60px;
         flex-wrap: wrap-reverse;
+        padding-top: 30px;
     }
     .aboutme__photo {
         margin-bottom: 40px;
@@ -147,6 +152,10 @@
     }
     .aboutme__link {
         margin-right: 26px;
+    }
+    .aboutme__links {
+        padding-left: 14px;
+        padding-right: 14px;
     }
 
 }

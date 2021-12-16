@@ -3,14 +3,11 @@ import GoogleMapReact from 'google-map-react';
 import './Anschrift.css';
 import mail from '../../images/mail2.svg'
 import phone from '../../images/phone2.svg'
-
-import LocationPin from '../LocationPin/LocationPin';
+import map from '../../images/fuldamap.png'
 
 
 function Anschrift(props) {
   
-  const AnyReactComponent = ({ text }) => <div><img src="YOUR-IMG-SRC" className="YOUR-IMG-CLASS" /></div>;
-  const [center, setCenter]=React.useState({lat: 50.555809, lng: 9.680845});
 
   return (
     <div class="anschrift">
@@ -35,24 +32,7 @@ function Anschrift(props) {
             0661 / 79814</a></li>
           </ul>
         </nav>
-        <div className="map">
-    <h2 className="map-h2">Maria Ward Kindergarten</h2>
-    <div style={{ height: '400px', width: '600px' }}>
-    <GoogleMapReact
-       apiKey={'YOUR_GOOGLE_MAP_API_KEY'} 
-        bootstrapURLKeys = { {  key : ""  } } 
-        defaultCenter = { center } 
-        defaultZoom = { 11} 
-        
-      >
-        <AnyReactComponent
-          lat={59.955413}
-          lng={30.337844}
-          text={'Google Map'}
-        />
-      </GoogleMapReact>
-    </div>
-  </div>
+      <img className='anschrift__fuldamap' src={map} alt='fulda' />
     </div>
   );
 }

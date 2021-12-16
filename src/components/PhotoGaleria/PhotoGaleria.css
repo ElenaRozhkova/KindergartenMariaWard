@@ -1,0 +1,26 @@
+.photos {
+    padding-right: 20px;
+}
+.photos__title {
+    font-size: 28px ;
+    color: #c21c2c;
+    padding-bottom: 28px;
+}
+
+.photos__container {
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+
+.photo_img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-left: 10px;
+    margin-bottom: 10px;
+   
+}

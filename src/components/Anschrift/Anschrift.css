@@ -4,8 +4,9 @@
     margin-right: auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    height: 100vh;
     color: #000;
+    padding-left: 14px;
+    padding-right: 14px;
   }
   
   .anschrift__title {
@@ -74,3 +75,14 @@
     margin-top: 0;
   }
 
+  .anschrift__fuldamap {
+    max-width: 600px;
+    max-height: 500px;
+  }
+  @media screen and (max-width: 700px) { 
+    .anschrift__fuldamap {
+      max-width: 290px;
+      max-height: 300px;
+    }
+ 
+}

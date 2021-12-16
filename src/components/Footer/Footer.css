@@ -84,7 +84,7 @@
   }
 
   @media screen and (max-width: 1100px) {
-    .logo {
+    .logo_place_footer {
         display: none;
     }
     .footer__columns {
