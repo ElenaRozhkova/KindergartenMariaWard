@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KindergartenMariaWard/static/css/main.3e5bb55f.chunk.css",
-    "main.js": "/KindergartenMariaWard/static/js/main.7fecc031.chunk.js",
-    "main.js.map": "/KindergartenMariaWard/static/js/main.7fecc031.chunk.js.map",
+    "main.js": "/KindergartenMariaWard/static/js/main.1b47856b.chunk.js",
+    "main.js.map": "/KindergartenMariaWard/static/js/main.1b47856b.chunk.js.map",
     "runtime-main.js": "/KindergartenMariaWard/static/js/runtime-main.51c0cb06.js",
     "runtime-main.js.map": "/KindergartenMariaWard/static/js/runtime-main.51c0cb06.js.map",
     "static/js/2.c8273dd1.chunk.js": "/KindergartenMariaWard/static/js/2.c8273dd1.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.51c0cb06.js",
     "static/js/2.c8273dd1.chunk.js",
     "static/css/main.3e5bb55f.chunk.css",
-    "static/js/main.7fecc031.chunk.js"
+    "static/js/main.1b47856b.chunk.js"
   ]
 }
