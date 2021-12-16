@@ -1,0 +1,17 @@
+.place {
+    display: grid;
+    display: -ms-inline-grid;
+    display: -moz-inline-grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    box-sizing: border-box;
+    padding-bottom: 0;
+}
+
+@media screen and (max-width: 1100px) {
+    .place {
+        margin-bottom: 30px;
+        gap: 20px;
+    }
+}
+

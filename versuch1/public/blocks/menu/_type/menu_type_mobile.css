@@ -1,0 +1,11 @@
+.menu_type_mobile {
+
+    
+}
+
+@media screen and (max-width: 700px) {
+    .menu_type_mobile {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }

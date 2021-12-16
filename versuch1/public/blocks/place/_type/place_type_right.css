@@ -1,0 +1,10 @@
+.place_type_right {
+    text-align: end;
+}
+
+
+@media screen and (max-width: 1100px) {
+    .place_type_right  {
+        text-align: start;
+    }
+}

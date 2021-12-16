@@ -1,0 +1,76 @@
+.anschrift {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 100vh;
+    color: #000;
+  }
+  
+  .anschrift__title {
+      font-size: 28px;
+      font-family: inherit;
+      line-height: 125%;
+      font-weight: normal;
+      margin-bottom: 16px;
+  }
+
+  .anschrift__social-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+  }
+  .anschrift__columns {
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    justify-content: space-between;
+  }
+
+  .anschrift__list-item {
+    color: #000;
+    margin-bottom: 8px;
+  }
+  .anschrift__column_content_copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    flex-basis: 500px;
+  }
+  .anschrift__column-links {
+    padding-inline-start: 0;
+    list-style:none;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .anschrift__column-links:last-of-type {
+    padding-bottom: 16px;
+  }
+  .anschrift__column-link {
+    text-decoration: none;
+    color: #000;
+    line-height: 18px;
+    font-size: 14px;
+    font-weight: normal;
+  
+  }
+  
+  .anschrift__column-link:hover {
+    color: #c7b6ee;
+    opacity: 0.7;
+    transition: color 1s linear 2s;
+  }
+  .anschrift__column-heading {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 14px;
+    text-align: left;
+    margin-top: 0;
+  }
+

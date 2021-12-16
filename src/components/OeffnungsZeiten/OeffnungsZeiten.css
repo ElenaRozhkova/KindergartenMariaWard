@@ -1,0 +1,33 @@
+.oeffnungsZeiten {
+    padding-right: 20px;
+}
+.oeffnungsZeiten__title {
+    font-size: 28px ;
+    color: #c21c2c;
+    padding-bottom: 28px;
+}
+
+.oeffnungsZeiten__subtitle {
+    font-size: 22px ;
+    color: #143f89;
+    padding-bottom: 28px;
+}
+
+.oeffnungsZeiten__gruppe {
+    font-size: 16px ;
+    font-weight: bold;
+    color: #c21c2c;
+    padding-bottom: 7px;
+}
+
+.oeffnungsZeiten__text {
+    font-size: 16px ;
+    color: #5d5d5d;
+    padding-bottom: 0;
+}
+
+@media screen and (max-width: 700px) { 
+    .oeffnungsZeiten {
+        padding-top: 20px;
+    } 
+}

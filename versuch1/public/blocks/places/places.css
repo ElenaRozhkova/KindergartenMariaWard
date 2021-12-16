@@ -1,0 +1,15 @@
+.places {
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 1100px) {
+    .places {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .places {
+        max-width: 720px;
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0743c8df.chunk.css",
+    "main.js": "/static/js/main.e8a2f35e.chunk.js",
+    "main.js.map": "/static/js/main.e8a2f35e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4e30467.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4e30467.js.map",
+    "static/js/2.c8273dd1.chunk.js": "/static/js/2.c8273dd1.chunk.js",
+    "static/js/2.c8273dd1.chunk.js.map": "/static/js/2.c8273dd1.chunk.js.map",
+    "static/js/3.e2d87c16.chunk.js": "/static/js/3.e2d87c16.chunk.js",
+    "static/js/3.e2d87c16.chunk.js.map": "/static/js/3.e2d87c16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0743c8df.chunk.css.map": "/static/css/main.0743c8df.chunk.css.map",
+    "static/js/2.c8273dd1.chunk.js.LICENSE.txt": "/static/js/2.c8273dd1.chunk.js.LICENSE.txt",
+    "static/media/Aufnahmeantrag.7c697015.pdf": "/static/media/Aufnahmeantrag.7c697015.pdf",
+    "static/media/index.css": "/static/media/Inter-Regular.e148c4a1.woff",
+    "static/media/KitaLogoRund.fc3c4f0f.jpg": "/static/media/KitaLogoRund.fc3c4f0f.jpg",
+    "static/media/Konzeption.565b4aca.pdf": "/static/media/Konzeption.565b4aca.pdf",
+    "static/media/about.53be7cc8.jpg": "/static/media/about.53be7cc8.jpg",
+    "static/media/close.5a52daa7.svg": "/static/media/close.5a52daa7.svg",
+    "static/media/kinder.44be0032.jpg": "/static/media/kinder.44be0032.jpg",
+    "static/media/mail.4ae10057.svg": "/static/media/mail.4ae10057.svg",
+    "static/media/mail2.79d7e3e8.svg": "/static/media/mail2.79d7e3e8.svg",
+    "static/media/menu.65534bf2.svg": "/static/media/menu.65534bf2.svg",
+    "static/media/phone.8f5762ef.svg": "/static/media/phone.8f5762ef.svg",
+    "static/media/phone2.81b368a2.svg": "/static/media/phone2.81b368a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4e30467.js",
+    "static/js/2.c8273dd1.chunk.js",
+    "static/css/main.0743c8df.chunk.css",
+    "static/js/main.e8a2f35e.chunk.js"
+  ]
+}

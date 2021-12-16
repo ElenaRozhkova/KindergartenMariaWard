@@ -1,0 +1,20 @@
+.menu {
+    list-style: none;
+    padding-inline-start: 0;
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    display: flex;
+    min-width: 78px;
+    justify-content:space-between;
+}
+
+
+
+@media screen and (max-width: 740px) {
+    .menu  {
+        min-width: 62px;      
+    }
+} 
+
+

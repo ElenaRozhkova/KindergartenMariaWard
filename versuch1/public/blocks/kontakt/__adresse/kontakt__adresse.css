@@ -1,0 +1,9 @@
+.kontakt__adresse {
+    width: 50%;
+}
+
+@media screen and (max-width: 700px) {
+    .kontakt__adresse {
+        width: 100%;
+    }
+}
